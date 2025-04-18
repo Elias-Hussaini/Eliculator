@@ -126,6 +126,6 @@ const savedTheme = localStorage.getItem('calculatorTheme');
 if (savedTheme) {
     setTheme(savedTheme);
 }
-window.location.href = "https://elias-hussaini.gitbub.io/Eliculator/";
+
 // Initialize
 updateDisplay();
